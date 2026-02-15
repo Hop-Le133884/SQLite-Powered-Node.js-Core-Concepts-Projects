@@ -115,7 +115,7 @@ class TodoManagerSQLite {
 
     // Mark todo as complete
     async completeTodo(d) {
-
+        
     }
 
     // Delete a todo
