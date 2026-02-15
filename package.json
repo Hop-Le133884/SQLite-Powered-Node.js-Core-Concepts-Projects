@@ -1,0 +1,23 @@
+{
+  "name": "sqlite-powered-node.js-core-concepts-projects",
+  "version": "1.0.0",
+  "description": "When to Use SQLite: ✅ Desktop applications ✅ Mobile apps ✅ Small to medium web applications ✅ Embedded systems ✅ Testing and development ✅ Local data caching",
+  "main": "todomanager-sqlite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hop-Le133884/SQLite-Powered-Node.js-Core-Concepts-Projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hop-Le133884/SQLite-Powered-Node.js-Core-Concepts-Projects/issues"
+  },
+  "homepage": "https://github.com/Hop-Le133884/SQLite-Powered-Node.js-Core-Concepts-Projects#readme",
+  "dependencies": {
+    "sql.js": "^1.14.0"
+  }
+}
